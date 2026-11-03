@@ -58,9 +58,9 @@ function TeamPage() {
         <div className="mx-auto max-w-4xl px-6">
           <div className="rounded-2xl border border-border bg-white p-8 md:p-12">
             <h2 className="mb-1 font-serif text-3xl font-bold text-brand-navy">Dr. Joy Onuekwa</h2>
-            <p className="mb-6 text-sm uppercase tracking-widest text-brand-slate">MBBS, MRCGP, DRCOG, DCOSRH</p>
+            <p className="mb-6 text-sm uppercase tracking-widest text-brand-slate">MBBS, MRCGP, CCFP, DRCOG, DCOSRH</p>
             <p className="mb-4 text-brand-slate leading-relaxed">
-              Dr. Joy Onuekwa is a dedicated and enthusiastic medical professional with a strong commitment to delivering compassionate, patient-centred care. She obtained her MBBS from the University of Port Harcourt in 2015 and subsequently completed her medical residency and MRCGP in the United Kingdom.
+              Dr. Joy Onuekwa is a dedicated and enthusiastic medical professional with a strong commitment to delivering compassionate, patient-centred care. She obtained her MBBS from the University of Port Harcourt and subsequently completed her medical residency and MRCGP in the United Kingdom.
             </p>
             <p className="mb-4 text-brand-slate leading-relaxed">
               With a special interest in women’s sexual and reproductive health, Dr. Onuekwa is passionate about supporting women through every stage of their healthcare journey, promoting wellbeing, and providing evidence-based, holistic care.
