@@ -39,7 +39,7 @@ function ServicesPage() {
           </span>
           <h1 className="mb-6 font-serif text-5xl font-bold text-brand-navy md:text-6xl">Our Services</h1>
           <p className="mx-auto max-w-2xl text-lg text-brand-slate">
-            Dr. Samuel Onuekwa &amp; Dr. Joy Onuekwa (coming soon) are proud to offer primary care to residents of Burlington and surrounding areas.
+            Dr. Samuel Onuekwa &amp; Dr. Joy Onuekwa are proud to offer primary care to residents of Burlington and surrounding areas.
           </p>
         </div>
       </section>
